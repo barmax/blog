@@ -195,7 +195,7 @@ main {
           main .article-holder article .secondary .views:after {
             display: block;
             position: absolute;
-            content: '|';
+            content: '☋';
             top: 0;
             left: 0; }
   main .more {
@@ -255,7 +255,7 @@ footer {
     opacity: 1;
     transition: .3s; }
   .scrolltop:after {
-    content: "|";
+    content: "⇪";
     width: 100%;
     text-align: center;
     line-height: 40px;
