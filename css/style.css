@@ -67,7 +67,7 @@ h4, h5, h6 {
   font-size: 18px; }
 
 a {
-  color: #ca6a96; }
+  color: #a80851; }
 
 a:hover {
   color: #e889b4; }
@@ -123,7 +123,7 @@ header {
       font-size: 10px;
       text-decoration: none; }
       header nav#languange ul li:hover, header nav#languange ul li.active {
-        background-color: #ca6a96;
+        background-color: #a80851;
         transition: .2s; }
       header nav#languange ul li a {
         color: #f6f6f6;
@@ -200,7 +200,7 @@ main {
             left: 0; }
   main .more {
     margin: 20px auto 10px;
-    background-color: #ca6a96;
+    background-color: #a80851;
     color: #fff;
     border-radius: 5px;
     padding: 4px 10px;
