@@ -128,8 +128,11 @@ header {
       header nav#languange ul li a {
         color: #f6f6f6;
         border-bottom: none;
-        cursor: pointer; }
-
+        cursor: pointer;
+        }
+        header nav#languange ul li a abbr {
+          text-decoration: none;
+        }
 .menu {
   display: flex;
   flex-direction: row-reverse; }
