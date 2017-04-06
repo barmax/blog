@@ -259,6 +259,8 @@ main {
     display: block;
     position: relative;
     padding: 0 0 0 16px;
+  }
+
   .more {
     margin: 20px auto 10px;
     background-color: $btn_color;
@@ -274,7 +276,7 @@ main {
       transition: .2s;
     }
   }
-}
+
 
 footer {
   flex-grow: 0;
